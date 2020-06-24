@@ -1,0 +1,13 @@
+C:\Breno USA\Senai\Aula24ObjComoArg\bin\Debug\netcoreapp3.1\Aula24ObjComoArg.exe
+C:\Breno USA\Senai\Aula24ObjComoArg\bin\Debug\netcoreapp3.1\Aula24ObjComoArg.deps.json
+C:\Breno USA\Senai\Aula24ObjComoArg\bin\Debug\netcoreapp3.1\Aula24ObjComoArg.runtimeconfig.json
+C:\Breno USA\Senai\Aula24ObjComoArg\bin\Debug\netcoreapp3.1\Aula24ObjComoArg.runtimeconfig.dev.json
+C:\Breno USA\Senai\Aula24ObjComoArg\bin\Debug\netcoreapp3.1\Aula24ObjComoArg.dll
+C:\Breno USA\Senai\Aula24ObjComoArg\bin\Debug\netcoreapp3.1\Aula24ObjComoArg.pdb
+C:\Breno USA\Senai\Aula24ObjComoArg\obj\Debug\netcoreapp3.1\Aula24ObjComoArg.csprojAssemblyReference.cache
+C:\Breno USA\Senai\Aula24ObjComoArg\obj\Debug\netcoreapp3.1\Aula24ObjComoArg.csproj.CoreCompileInputs.cache
+C:\Breno USA\Senai\Aula24ObjComoArg\obj\Debug\netcoreapp3.1\Aula24ObjComoArg.AssemblyInfoInputs.cache
+C:\Breno USA\Senai\Aula24ObjComoArg\obj\Debug\netcoreapp3.1\Aula24ObjComoArg.AssemblyInfo.cs
+C:\Breno USA\Senai\Aula24ObjComoArg\obj\Debug\netcoreapp3.1\Aula24ObjComoArg.dll
+C:\Breno USA\Senai\Aula24ObjComoArg\obj\Debug\netcoreapp3.1\Aula24ObjComoArg.pdb
+C:\Breno USA\Senai\Aula24ObjComoArg\obj\Debug\netcoreapp3.1\Aula24ObjComoArg.genruntimeconfig.cache
